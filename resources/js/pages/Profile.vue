@@ -7,7 +7,7 @@ import { Head } from '@inertiajs/vue3'
 <Head title =" | Profile" /> 
     <div class="profile">
   <div class="sections">
-      <h1 class="text-3xl font-bold text-center text-white mb-6 py-16">
+      <h1 class="py-16 mb-6 text-3xl font-bold text-center text-white">
         My Infromation
       </h1>
   </div>

@@ -24,16 +24,16 @@ const closeMenu = () => {
 <div class="fixed inset-0 w-full h-full bg-center bg-no-repeat bg-cover" style="background-image: url('/images/bg9.png'); background-attachment: fixed; "></div>
 <!-- Nav bar -->
     <div class="relative ">
-        <header class=" mt-8 fixed mx-auto max-w-6xl rounded-full  left-0 right-0  bg-[#080c34]/10 backdrop-blur-md text-white text-xs p-2 max-w shadow-lg">
+        <header class=" mt-8 fixed mx-auto max-w-6xl rounded-full left-0 right-0  bg-[#080c34]/10 backdrop-blur-md text-white text-xs p-2 max-w shadow-lg">
             <nav class="flex items-center justify-between px-4">
                 <div class="logo">
                     <img src="/images/logo.jpg" alt="Logo" class="w-10 h-10 rounded-full">
                 </div>
-                <aside class="hidden md:flex bg-[#253957] rounded-full text-lg font-bold space-x-8 px-8 py-1">
-                    <a href="#Home" > Home </a>
-                    <a href="#About" > About Me</a>
-                    <a href="#Profile" > Profile </a>
-                    <a href="#Projects" > Projects </a>
+                <aside class="hidden  md:flex bg-[#253957] rounded-full text-lg font-bold space-x-8 px-8 py-1">
+                    <a href="#Home" class="nav_button"> Home </a>
+                    <a href="#About" class="nav_button"> About Me</a>
+                    <a href="#Profile" class="nav_button"> Profile </a>
+                    <a href="#Projects" class="nav_button"> Projects </a>
 
                 </aside>
 
