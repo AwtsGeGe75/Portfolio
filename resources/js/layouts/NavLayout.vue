@@ -24,7 +24,7 @@ const closeMenu = () => {
 <div class="fixed inset-0 w-full h-full bg-center bg-no-repeat bg-cover" style="background-image: url('/images/bg9.png'); background-attachment: fixed; "></div>
 <!-- Nav bar -->
     <div class="relative ">
-        <header class=" mt-8 fixed mx-auto max-w-6xl rounded-full left-0 right-0  bg-[#080c34]/10 backdrop-blur-md text-white text-xs p-2 max-w shadow-lg">
+        <header class=" mt-8 fixed mx-auto max-w-6xl rounded-full left-0 right-0  bg-[#080c34]/10 backdrop-blur-md text-white text-xs p-2 max-w ">
             <nav class="flex items-center justify-between px-4">
                 <div class="logo">
                     <img src="/images/logo.jpg" alt="Logo" class="w-10 h-10 rounded-full">
